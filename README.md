@@ -33,7 +33,7 @@ A machine learning-based system that detects phishing websites using URL feature
    - `model.pkl` (trained ML model)
    - `vectorizer.pkl` (CountVectorizer)
    - `mnb.pkl` (Naive Bayes model)
-   - `phishing_site_urls.csv` (dataset)
+   - `phishing_site_urls.csv` (dataset= https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls)
 
 ## Usage
 1. Start the Flask app:
