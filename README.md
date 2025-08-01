@@ -1,6 +1,10 @@
 # PhishGuard
 A machine learning-based system that detects phishing websites using URL features. Built with Python and Flask, trained on phishing sites URL(Kaggle) datasets.
 
+## Demo
+
+![Project Demo](demo.gif)
+
 ## Features
 - Detects phishing and legitimate websites from URL input
 - Trained on a large dataset of phishing and good URLs
